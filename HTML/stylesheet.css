@@ -1,0 +1,15 @@
+@font-face {
+   src: url(fonts/OpenSans-Light.ttf);
+   font-family: sanslight;
+}
+
+.paragraph {
+    font-size: 60px;
+    line-height: 0;
+    font-family: 'sanslight', sans-serif;
+}
+.wow {
+    font-size: 40px;
+    line-height: 2;
+    font-family: 'sanslight';
+}
